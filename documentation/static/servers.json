@@ -211,6 +211,18 @@
     ]
   },
   {
+    "id": "daydream",
+    "name": "Daydream",
+    "description": "Make original instrumental songs from words, each with five stems",
+    "url": "https://gen.daydream.live/mcp",
+    "link": "https://gen.daydream.live/docs#mcp",
+    "installation_notes": "Remote server. Sign in with a Daydream account (OAuth) when Goose asks, or send a Daydream API key as a Bearer token.",
+    "is_builtin": false,
+    "endorsed": false,
+    "environmentVariables": [],
+    "type": "streamable-http"
+  },
+  {
     "id": "code_execution",
     "name": "Code Mode",
     "description": "Execute JavaScript code to interact with MCP tools efficiently",
